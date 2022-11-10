@@ -1,6 +1,6 @@
 # biaozhu
 
-在$biaozhu$文件夹中，有$configs$、$images$、$utils$三个文件夹，并且有$biaozhu.py$、$login.py$、$recode\_1.py$、$recode\_2.py$、$注册器.py$ 共5个$Python$代码文件。
+在 $biaozhu$ 文件夹中，有 $configs$ 、 $images$ 、 $utils$ 三个文件夹，并且有 $biaozhu.py$ 、 $login.py$ 、$recode\_1.py$、$recode\_2.py$、$注册器.py$ 共5个$Python$代码文件。
 
 1. $configs$文件中，是用以自定义命名实体、关系的文件，你可以使用文本文件方式打开，并自定义命名实体类别、关系。（自定义实体、关系，除了$configs$文件夹，$biaozhu.py$也需要修改）
 2. $images$文件夹中，是一些图片文件，无需关心。
